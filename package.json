@@ -1,0 +1,17 @@
+{
+  "name": "checkpoint-mongoose",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Ousmane Fall",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2",
+    "validator": "^13.7.0"
+  },
+  "keywords": [],
+  "description": ""
+}
